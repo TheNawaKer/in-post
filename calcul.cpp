@@ -2,8 +2,6 @@
 #include "calcul.h"
 using namespace std;
 
-//hello
-
 void multiplication(STACK &s)
 {
 	Item a = top(s);
@@ -45,3 +43,5 @@ void division(STACK &s)
 	else
 	push(s,b/a);
 }
+
+//coucou
