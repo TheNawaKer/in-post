@@ -2,6 +2,8 @@
 #include "calcul.h"
 using namespace std;
 
+//hello
+
 void multiplication(STACK &s)
 {
 	Item a = top(s);
